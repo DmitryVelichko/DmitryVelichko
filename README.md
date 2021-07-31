@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitry 
 
-- 👀 A self-taught Frontend Web Dev (with space industry background). Open for work
+- 👀 A self-taught Frontend Web Dev (with a space industry background). Open for work
 
 - 🌱 I’m currently learning TypeScript, Redux, Algorithms and Data Structures, and many other technologies
 
