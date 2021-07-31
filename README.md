@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dmitry 
 
-- 👀 A Frontend Web Dev 
+- 👀 A self-taught Frontend Web Dev (with space industry background). Open for work
 
-- 🌱 I’m currently learning Redux, TypeScript, Algorithms and Data Structures, and many other technologies
+- 🌱 I’m currently learning TypeScript, Redux, Algorithms and Data Structures, and many other technologies
 
 - 💞️ I’m working with HTML, CSS, JS, ReactJS to make awesome websites & apps
 
