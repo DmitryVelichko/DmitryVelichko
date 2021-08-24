@@ -2,7 +2,7 @@
 
 - 👀 A self-taught Frontend Web Dev (with a space industry background). Open for work or any projects.
 
-- 💞️ I’m working with HTML, CSS, JS, ReactJS (as well as SASS, TailwindCSS, Bootstrap) to make awesome websites & apps.
+- 💞️ I’m working with HTML, CSS, JS, ReactJS (as well as SASS, Tailwind CSS, Bootstrap 5) to make awesome websites & apps.
 
 - 🌱 I’m currently learning TypeScript, NextJS, Redux, Algorithms and Data Structures, and other technologies.
 
