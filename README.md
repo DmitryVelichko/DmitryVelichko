@@ -6,4 +6,4 @@
 
 - 🌱 I’m currently learning TypeScript, NextJS, Redux, Algorithms and Data Structures, and other technologies.
 
-- 📫 If you have any questions or just want to chat, I would be glad to talk to you! Please email at: Dmitry.Velichko2010@gmail.com 
+- 📫 If you have any questions or just want to chat, please email at Dmitry.Velichko2010@gmail.com 
