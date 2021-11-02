@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitry.
 
-- 👀 A self-taught Frontend Web Dev (with a space industry background). Open for work or any projects.
+- 👀 A self-taught Frontend Web Dev (with a space industry background).
 
 - 💞️ I’m working with HTML, CSS, JS, ReactJS (as well as SASS, Tailwind CSS, Bootstrap 5) to make awesome websites & apps.
 
