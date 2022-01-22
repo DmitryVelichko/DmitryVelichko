@@ -8,6 +8,8 @@
 
 ### 💥 If you have any questions or just want to chat, please email at Dmitry.Velichko2010@gmail.com 
 
+### ✨ You will find lots of useful information on my [YouTube Channel.](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos)
+
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
