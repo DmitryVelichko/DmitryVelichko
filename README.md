@@ -2,13 +2,13 @@
 
 ### ☀️ I’m Dmitry. A self-taught Frontend Web Dev (with a space industry background).
 
-### 💚 I’m working with HTML, CSS, JS, ReactJS (as well as SASS, Tailwind CSS, Bootstrap 5) to make awesome websites & apps.
+### 💚 I’m working with ReactJS and TypeScript to make awesome websites & apps.
 
-### 🔥 I’m currently learning TypeScript, NextJS, Redux, and other technologies.
+### 🔥 I’m currently learning NextJS and other cool technologies.
 
 ### 💥 If you have any questions or just want to chat, please email at Dmitry.Velichko2010@gmail.com 
 
-### ✨ You will find lots of useful information on my [YouTube Channel.](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos)
+### ✨ Check out my [YouTube Channel](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos).
 
 <h2 align="center">Technology Stack</h2>
 
