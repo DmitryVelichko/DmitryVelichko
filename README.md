@@ -8,7 +8,7 @@
 
 ### 💥 If you have any questions or just want to chat, please email at Dmitry.Velichko2010@gmail.com 
 
-### ✨ Check out my [YouTube Channel](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos).
+### ✨ Check out my YouTube Channel, where I'm sharing life and work experience: [Helpful Programmer](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos)
 
 <h2 align="center">Technology Stack</h2>
 
