@@ -1,8 +1,8 @@
 # Hi! 👋
 
-### ☀️ I’m Dmitry. A self-taught Frontend Web Dev (with a space industry background).
+### ☀️ I’m Dmitry. A self-taught Frontend and Web3 Dev (with a space industry background).
 
-### 🔥 Tech Stack: ReactJS + TypeScript.
+### 🔥 Tech Stack: React, TypeScript, Solidity.
 
 ### 💚 Email: Dmitry.Velichko2010@gmail.com 
 
