@@ -2,7 +2,7 @@
 
 ### ☀️ I’m Dmitry. A self-taught Frontend and Web3 Dev (with a space industry background).
 
-### 🔥 Tech Stack: React, TypeScript, Solidity.
+### 🔥 Tech Stack: React + TypeScript.
 
 ### 💚 Email: Dmitry.Velichko2010@gmail.com 
 
@@ -21,8 +21,6 @@
 <img align="center" alt="MobX" width="50px" src="https://user-images.githubusercontent.com/42185328/140605838-44d4d713-93be-43f0-9881-68c9dcff136d.png" />&nbsp;&emsp;
 <img align="center" alt="Gitea" width="60px" src="https://user-images.githubusercontent.com/42185328/140606072-5c5120c5-a181-4de7-b26e-ed4987fa6de1.png" />&nbsp;&emsp;
 <img align="center" alt="Figma" width="30px" src="https://user-images.githubusercontent.com/42185328/140606033-235d28fe-46d3-4fdb-a9b9-dff36f3fa3a7.png" />&nbsp;&emsp;
-<img align="center" alt="Solidity" width="50px" src="https://user-images.githubusercontent.com/42185328/185695666-9ace229e-cd36-4342-8ccb-187423fbdbce.png"/>&nbsp;&emsp;
-<img align="center" alt="Solidity" width="50px" src="https://user-images.githubusercontent.com/42185328/185695353-af19fc9e-035f-46bd-a3d6-31fbbaa10d47.png"/>&nbsp;&emsp;
 </p>
 
 
