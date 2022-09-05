@@ -1,6 +1,6 @@
 # Hi! 👋
 
-### ☀️ I’m Dmitry. A self-taught Frontend and Web3 Dev (with a space industry background).
+### ☀️ I’m Dmitry. A self-taught Frontend Developer (with a space industry background).
 
 ### 🔥 Tech Stack: React + TypeScript.
 
