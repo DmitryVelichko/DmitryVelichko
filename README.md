@@ -8,6 +8,10 @@
 
 ### ✨ YouTube Channel: [Helpful Programmer](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos)
 
+### 💙 Telegram: [@VelichkoDmitry](https://t.me/VelichkoDmitry)
+
+### 💛 LinkedIn: [see profile](https://www.linkedin.com/in/dmitryvelichko/)
+
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
