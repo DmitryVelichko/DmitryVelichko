@@ -1,4 +1,4 @@
-<h2 align="center">Hi!)</h2>
+<h1 align="center">Hi! : )</h2>
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525604-2ff94271-0425-4d6f-802a-e94d883dd8a6.png" /> &nbsp;&nbsp;I’m Dmitry. A self-taught Frontend Developer (with a space industry background).
 
@@ -10,7 +10,7 @@
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228524818-64c77434-97da-444e-9fe9-1edc9579384a.png" />&nbsp;&nbsp; YouTube Channel: [Helpful Programmer](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos)
 
-<h2 align="center">Contacts</h2>
+<h1 align="center">Contacts</h2>
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228523928-7bc9c59e-8e25-457e-9641-8957e4aa8df4.png" />&nbsp;&nbsp; Email: Dmitry.Velichko2010@gmail.com 
 
@@ -18,7 +18,7 @@
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228522687-01fd3af0-549d-4c79-bc60-784cfa56010d.png" /> &nbsp;&nbsp;LinkedIn: [see profile](https://www.linkedin.com/in/dmitryvelichko/)
 
-<h2 align="center">Technology Stack</h2>
+<h1 align="center">Technology Stack</h2>
 
 <p align="center">
 <img align="center" style={margin-left: "30px"} alt="HTML" width="50px" src="https://user-images.githubusercontent.com/42185328/140605686-f37da84d-9b7b-4fdd-8b22-f52160d3817d.png" />&nbsp;&emsp;
