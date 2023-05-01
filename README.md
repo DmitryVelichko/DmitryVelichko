@@ -1,8 +1,8 @@
-<h2 align="center">Hi</h2>
+<h2 align="center">Hi!)</h2>
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525604-2ff94271-0425-4d6f-802a-e94d883dd8a6.png" /> &nbsp;&nbsp;I’m Dmitry. A self-taught Frontend Developer (with a space industry background).
 
-### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525493-bb0d6796-b320-459d-8035-f48752f93206.png" /> &nbsp;&nbsp;Tech Stack: React + TypeScript.
+### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525493-bb0d6796-b320-459d-8035-f48752f93206.png" /> &nbsp;&nbsp;Tech Stack: React, NextJS, TypeScript.
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525232-276be514-d71a-44eb-94f7-431bd99a95ec.png" /> &nbsp;&nbsp;Portfolio Website: [WillCodeForFood.online](https://willcodeforfood.online/)
 
