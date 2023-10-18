@@ -1,4 +1,4 @@
-<h1 align="center">Hi! : )</h2>
+<h1 align="center">Hi! : )</h1>
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525604-2ff94271-0425-4d6f-802a-e94d883dd8a6.png" /> &nbsp;&nbsp;I’m Dmitry. A self-taught Frontend Developer (with a space industry background).
 
