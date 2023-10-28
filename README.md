@@ -4,11 +4,11 @@
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525493-bb0d6796-b320-459d-8035-f48752f93206.png" /> &nbsp;&nbsp;Tech Stack: React, NextJS, TypeScript.
 
-### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525232-276be514-d71a-44eb-94f7-431bd99a95ec.png" /> &nbsp;&nbsp;[Portfolio Website: WillCodeForFood.online](https://willcodeforfood.online/)
+### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525232-276be514-d71a-44eb-94f7-431bd99a95ec.png" /> &nbsp;&nbsp; Portfolio Website: [WillCodeForFood.online](https://willcodeforfood.online/)
 
-### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228524366-c8368f08-642b-4b12-868c-28f63eac1925.png" />&nbsp;&nbsp; [LeetCode: Statistics](https://leetcode.com/DmitryVelichko/)
+### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228524366-c8368f08-642b-4b12-868c-28f63eac1925.png" />&nbsp;&nbsp; LeetCode: [Statistics](https://leetcode.com/DmitryVelichko/)
 
-### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228524818-64c77434-97da-444e-9fe9-1edc9579384a.png" />&nbsp;&nbsp; [YouTube Channel: Helpful Programmer](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos)
+### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228524818-64c77434-97da-444e-9fe9-1edc9579384a.png" />&nbsp;&nbsp; YouTube Channel: [@HelpfulProgrammer](https://www.youtube.com/channel/UCMoXZFDHxWvNQHYfTo2nyPA/videos)
 
 <h1 align="center">Contacts</h2>
 
