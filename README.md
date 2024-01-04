@@ -2,7 +2,7 @@
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525604-2ff94271-0425-4d6f-802a-e94d883dd8a6.png" /> &nbsp;&nbsp;I’m Dimitri. Frontend Developer (React, NextJS, TypeScript)
 
-### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525232-276be514-d71a-44eb-94f7-431bd99a95ec.png" /> &nbsp;&nbsp; Portfolio Website: [<ins>dimitri.website</ins>](https://Dimitri.website/)
+### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525232-276be514-d71a-44eb-94f7-431bd99a95ec.png" /> &nbsp;&nbsp; Portfolio Website: [<ins>WillCodeForFood.pro</ins>](https://willcodeforfood.pro/)
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228524366-c8368f08-642b-4b12-868c-28f63eac1925.png" />&nbsp;&nbsp; LeetCode: [<ins>My progress</ins>](https://leetcode.com/DmitryVelichko/)
 
