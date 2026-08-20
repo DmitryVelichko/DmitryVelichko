@@ -1,6 +1,6 @@
 <h1 align="center">Hi! : )</h1>
 
-### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525604-2ff94271-0425-4d6f-802a-e94d883dd8a6.png" /> &nbsp;&nbsp;I’m Dmitry. Backend Developer (Golang, PostgreSQL, Docker, Kafka) + Frontend (React, Next, TypeScript)
+### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525604-2ff94271-0425-4d6f-802a-e94d883dd8a6.png" /> &nbsp;&nbsp;I’m Dmitry. Backend Developer (Golang, PostgreSQL, Docker) + Frontend (React, Next, TypeScript)
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228524366-c8368f08-642b-4b12-868c-28f63eac1925.png" />&nbsp;&nbsp; LeetCode: [<ins>My progress</ins>](https://leetcode.com/DmitryVelichko/)
 
