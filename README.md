@@ -1,8 +1,6 @@
 <h1 align="center">Hi! : )</h1>
 
-### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525604-2ff94271-0425-4d6f-802a-e94d883dd8a6.png" /> &nbsp;&nbsp;I’m Dmitry. Frontend Developer (React, NextJS, TypeScript) with 5+ years of experience
-
-### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525232-276be514-d71a-44eb-94f7-431bd99a95ec.png" /> &nbsp;&nbsp; Portfolio Website: [<ins>willcodeforfood.online</ins>](https://willcodeforfood.online)
+### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228525604-2ff94271-0425-4d6f-802a-e94d883dd8a6.png" /> &nbsp;&nbsp;I’m Dmitry. Backend Developer (Golang, PostgreSQL, Docker, Kafka) + Frontend (React, Next, TypeScript)
 
 ### <img align="center" width="35px" src="https://user-images.githubusercontent.com/42185328/228524366-c8368f08-642b-4b12-868c-28f63eac1925.png" />&nbsp;&nbsp; LeetCode: [<ins>My progress</ins>](https://leetcode.com/DmitryVelichko/)
 
@@ -18,17 +16,13 @@
 
 <h1 align="center">Technology Stack</h2>
 
-<p align="center">
-<img align="center" style={margin-left: "30px"} alt="HTML" width="50px" src="https://user-images.githubusercontent.com/42185328/140605686-f37da84d-9b7b-4fdd-8b22-f52160d3817d.png" />&nbsp;&emsp;
-<img align="center" alt="CSS" width="50px" src="https://user-images.githubusercontent.com/42185328/140605712-1b028b68-aad1-41ef-a868-94df3073716e.png" />&nbsp;&emsp; 
-<img align="center" alt="Sass" width="50px" src="https://user-images.githubusercontent.com/42185328/140605966-f5ca001e-d4a3-4498-b3e4-021cb52ceda2.png" />&nbsp;&emsp;   
-<img align="center" alt="JS" width="50px" src="https://user-images.githubusercontent.com/42185328/140605745-29b0ca52-240d-4fe4-b8f9-61771fd63521.png" />&nbsp;&emsp;
-<img align="center" alt="NextJS" width="50px" src="https://github.com/DmitryVelichko/DmitryVelichko/assets/42185328/3f641b85-1056-475d-8745-1bfd357f872b" />&nbsp;&emsp; 
+<p align="center"> 
+<img  align="center" width="100px" alt="Go" src="https://github.com/user-attachments/assets/2f47c1c3-3a59-4ad8-b170-d371497742dd" />&nbsp;&emsp; 
+<img  align="center" width="50" alt="Docker" src="https://github.com/user-attachments/assets/82091db3-b6bb-4e66-9368-e1731a8f6acc"/> &nbsp;&emsp; 
+<img  align="center" width="50" alt="Python"  src="https://github.com/user-attachments/assets/101878f5-d021-4c49-85eb-d457efe4382a"/> &nbsp;&emsp; 
+ <img align="center" alt="NextJS" width="50px" src="https://github.com/DmitryVelichko/DmitryVelichko/assets/42185328/3f641b85-1056-475d-8745-1bfd357f872b" />&nbsp;&emsp; 
 <img align="center" alt="React" width="50px" src="https://user-images.githubusercontent.com/42185328/140605732-e9ae7ef8-4506-4ca4-b72c-fefc9cc28929.png" />&nbsp;&emsp;
 <img align="center" alt="TS" width="50px" src="https://user-images.githubusercontent.com/42185328/140605789-d1be3679-13be-4085-9aaf-825f25ea4b4a.png" />&nbsp;&emsp;
-<img align="center" alt="Redux" width="50px" src="https://github.com/DmitryVelichko/DmitryVelichko/assets/42185328/e21011ba-9da8-4c99-859e-7b548329f1ac" />&nbsp;&emsp;
-<img align="center" alt="TailwindCSS" width="50px" src=https://github.com/DmitryVelichko/DmitryVelichko/assets/42185328/efaa0154-6765-45f9-a130-e48759a96770" />&nbsp;&emsp;
-<img align="center" alt="Figma" width="30px" src="https://user-images.githubusercontent.com/42185328/140606033-235d28fe-46d3-4fdb-a9b9-dff36f3fa3a7.png" />&nbsp;&emsp;
 </p>
 
 
